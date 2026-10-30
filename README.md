@@ -8,7 +8,7 @@
   <a href="https://github.com/redhunt07/Fedi3"><img alt="Focus: decentralized systems" src="https://img.shields.io/badge/Decentralized_Systems-0f172a?style=flat-square&amp;logo=rust&amp;logoColor=fb7185" /></a>
 </p>
 
-I build and maintain open-source tools that connect AI, software and real hardware. My projects span **local inference**, **hands-free voice interfaces**, **home automation** and **decentralized social systems**.
+I build and maintain open-source tools that connect AI, software and real hardware. My projects span **hands-free voice interfaces**, **solar monitoring**, **home automation** and **decentralized social systems**.
 
 I care about clear setup instructions, useful diagnostics and making projects easier to run and improve.
 
@@ -17,7 +17,7 @@ I care about clear setup instructions, useful diagnostics and making projects ea
 | Project | What it does | Explore |
 | :--- | :--- | :--- |
 | **[DSH Voice Conversation](https://github.com/redhunt07/dsh-voice-conversation)** | Hands-free Italian/English conversations for DeepSeek Harness, with a compact chat dock and optional local speech models. | [Install & docs](https://github.com/redhunt07/dsh-voice-conversation#install) · [npm](https://www.npmjs.com/package/dsh-voice-conversation) |
-| **[DS4 · DSpark GB10](https://github.com/redhunt07/ds4-DSpark-GB10)** | A fork of antirez/ds4 focused on local DeepSeek inference and DSpark decoding on NVIDIA DGX Spark / GB10. | [Build & benchmarks](https://github.com/redhunt07/ds4-DSpark-GB10#readme) |
+| **[Solar of Things Cloud](https://github.com/redhunt07/ha-solar-of-things-cloud)** | Read-only inverter telemetry for Home Assistant, with automatic cloud-session renewal and Energy dashboard helpers. | [Install with HACS](https://github.com/redhunt07/ha-solar-of-things-cloud#installation) · [Releases](https://github.com/redhunt07/ha-solar-of-things-cloud/releases) |
 | **[FEDI3](https://github.com/redhunt07/Fedi3)** | A federated social project combining a Flutter app, a Rust core, P2P components and a relay. | [Project & setup](https://github.com/redhunt07/Fedi3#readme) |
 | **[VEVOR → Home Assistant](https://github.com/redhunt07/ha-addon-vevor-eml3500-24l-rs232-wifi)** | Inverter telemetry and MQTT discovery through an RS232-to-WiFi bridge. | [Installation & configuration](https://github.com/redhunt07/ha-addon-vevor-eml3500-24l-rs232-wifi#installation) |
 
