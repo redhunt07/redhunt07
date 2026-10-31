@@ -31,7 +31,7 @@ dsh plugin --profile web add dsh-voice-conversation@0.1.1
 
 **Start with the [setup guide](https://github.com/redhunt07/dsh-voice-conversation#readme)** — local speech needs its optional backend or configured compatible endpoints. The current tested target is DSH 0.2.0-rc.2 on Linux; check the project notes for limitations.
 
-[![npm version](https://img.shields.io/npm/v/dsh-voice-conversation.svg)](https://www.npmjs.com/package/dsh-voice-conversation) [![Tests](https://github.com/redhunt07/dsh-voice-conversation/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/redhunt07/dsh-voice-conversation/actions/workflows/test.yml) [![Listed on DSH Plugin Hub](https://dsh-plugin.org/badges/listed.svg)](https://dsh-plugin.org/plugins/redhunt07/dsh-voice-conversation)
+[![npm version](https://img.shields.io/npm/v/dsh-voice-conversation.svg)](https://www.npmjs.com/package/dsh-voice-conversation) [![Tests](https://github.com/redhunt07/dsh-voice-conversation/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/redhunt07/dsh-voice-conversation/actions/workflows/test.yml) [![DSH Hub: submitted](https://img.shields.io/badge/DSH_Hub-submitted-64748b.svg)](https://github.com/dshplugin/dsh-plugin-hub/issues/548)
 
 ### Work with me
 
